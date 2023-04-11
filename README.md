@@ -1,8 +1,9 @@
 # Nostale pond minigame bot
 
-A simple bot to play pond minigame that uses image recognition system based in cv2, pyautogui and numpy libraries
+A simple bot to play pond minigame that uses image recognition system (so it is very probably that this code would only work on my pc :( )  
+based in cv2, pyautogui and numpy libraries
 
-I made it with my laptopn with Windows OS where the screen scale was at 125% and nostale resolution at 1024x768
+I made it with my laptopn with Windows OS where the screen scale was at 125% and nostale resolution at 1024x768.
 
 If you only want to catch basic fishes run the nostaleScript.py, for bonus run nostaleScript2.py and for totally automated bot run both scripts with fishScript.py
 
